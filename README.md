@@ -18,7 +18,9 @@ Ahora, no solo me dedico al análisis y la recopilación de datos, sino que tamb
 
 ## Proyectos
 
-He logrado evolucionar significativamente, lo cual me capacita no solo para diseñar mi propio sitio web, sino también para brindar mis servicios en el desarrollo de plataformas digitales tanto para colegas como para empresas. Te invito a explorar mi proyecto más reciente en el siguiente enlace: [Mi Proyecto Más Reciente](https://pf-front-end.onrender.com/).
+## Proyectos
+
+He logrado evolucionar significativamente, lo cual me capacita no solo para diseñar mi propio sitio web, sino también para brindar mis servicios en el desarrollo de plataformas digitales tanto para colegas como para empresas. Te invito a explorar nuestro proyecto más reciente, realizado en colaboración con mi equipo, en el siguiente enlace: [Nuestro Proyecto Más Reciente](https://pf-front-end.onrender.com/).
 
 Estoy emocionada por poner en práctica mis habilidades tecnológicas con el fin de contribuir al éxito de más individuos y organizaciones.
 
