@@ -1,6 +1,8 @@
 # ¡Saludos!👋
 
-¡Hola! Soy Viridiana, una profesional con una sólida experiencia en la elaboración de informes de higiene industrial, ambiente laboral y terapia ocupacional. A lo largo de mi carrera, he desarrollado habilidades tecnológicas que abarcan el análisis de datos, la gestión de información y la creación de contenido digital en pro del desarrollo humano.
+¡Hola! Soy Viridiana, Lic. en Psicologia con una sólida experiencia en la elaboración de informes de higiene industrial, ambiente laboral y terapia ocupacional y ahora tambien Full Stack Web Developer.
+
+A lo largo de mi carrera, he desarrollado habilidades tecnológicas que abarcan el análisis de datos, la gestión de información y la creación de contenido digital en pro del desarrollo humano.
 
 ## Experiencia
 
